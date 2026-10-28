@@ -1,6 +1,6 @@
 ---
 en:
-  title: About mee
+  title: About me
   text: >-
     # About me
 
