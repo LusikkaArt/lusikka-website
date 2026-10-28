@@ -1,7 +1,7 @@
 # Use DecapBridge classic auth (required)
 backend:
   name: git-gateway
-  repo: lusikka1234/website
+  repo: LusikkaArt/lusikka-website
   branch: main
   identity_url: https://auth.decapbridge.com/sites/231bf9ec-2ede-49f8-93e2-25315ff43e9f
   gateway_url: https://gateway.decapbridge.com
